@@ -29,7 +29,7 @@ The website is built using **HTML, CSS, and JavaScript** and gives visitors a qu
 You can connect with me through:
 
 - GitHub: [anojcodes](https://github.com/anojcodes)  
-- Email: anoj.sathe@example.com  
+- Email: anoj.sathe@gmail.com  
 - LinkedIn: [linkedin.com/in/anoj-sathe](#)
 
 ---
